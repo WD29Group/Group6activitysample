@@ -1,11 +1,14 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import 'mdb-react-ui-kit/dist/css/mdb.min.css';
+import "mdb-react-ui-kit/dist/css/mdb.min.css";
 import "@fortawesome/fontawesome-free/css/all.min.css";
-import './App.css';
+import "./App.css";
 import Navigation from "./Navigation";
 import Home from "./Home";
 import Contacts from "./Contacts";
 import About from "./About";
+import UserProf from "./UserProf";
+import UserPost from "./UserPost";
+import TimeCal from "./TimeCal";
 import Nopage from "./Nopage";
 function App() {
   return (
@@ -23,3 +26,4 @@ function App() {
 }
 
 export default App;
+// https://jsonplaceholder.typicode.com/posts
