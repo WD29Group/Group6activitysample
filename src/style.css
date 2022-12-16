@@ -19,8 +19,9 @@
 .setpage{
   padding-top: 25px;
   height: 90vh;
-  width: auto;
+  width: 100vw;
   position: fixed;
+  background-size: cover;
   background: url('bkg.png');
   overflow-y: scroll;
   /* background: rgb(155, 155, 155); */
