@@ -127,7 +127,7 @@ footer{
   box-shadow: var(--boxshadow);
   backdrop-filter: blur(12px);
   height: 320px;
-  width: 100%;
+  width: 370px;
 }
 .frostedglass3 a{
   text-decoration: none;

@@ -30,6 +30,14 @@ function Contacts() {
             <a href="#">@g6iduno</a>
           </h3>
         </div>
+        <span>
+          <iframe
+            src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed"
+            height="400"
+            width="600"
+            title="gmap_canvas"
+          ></iframe>
+        </span>
       </center>
     </>
   );
