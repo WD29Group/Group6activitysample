@@ -20,7 +20,9 @@
   padding-top: 25px;
   height: 90vh;
   width: auto;
+  position: fixed;
   background: url('bkg.png');
+  overflow-y: scroll;
   /* background: rgb(155, 155, 155); */
   /* border: solid rgb(51, 51, 51); */
 }
