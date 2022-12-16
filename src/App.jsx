@@ -6,9 +6,6 @@ import Navigation from "./Navigation";
 import Home from "./Home";
 import Contacts from "./Contacts";
 import About from "./About";
-import UserProf from "./UserProf";
-import UserPost from "./UserPost";
-import TimeCal from "./TimeCal";
 import Nopage from "./Nopage";
 function App() {
   return (
