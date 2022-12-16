@@ -7,7 +7,7 @@ function UserPost() {
     fetch("https://jsonplaceholder.typicode.com/posts")
       .then((Response) => Response.json())
       .then((data) => {
-        setUsers(data.slice(0, 10));
+        setUsers(data.slice(0, 50));
       });
   }, []);
 
